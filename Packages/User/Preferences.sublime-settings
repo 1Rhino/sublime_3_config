@@ -1,5 +1,6 @@
 {
 	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
@@ -8,16 +9,19 @@
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"fold_buttons": false,
-	"font_size": 11,
+	"font_size": 12.5,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 	],
+	"index_files": true,
 	"rulers":
 	[
+		80,
 		100
 	],
 	"scroll_past_end": true,
@@ -27,5 +31,6 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
 	"word_wrap": "true"
 }
