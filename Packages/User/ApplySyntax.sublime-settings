@@ -6,7 +6,7 @@
     // If you want to have a syntax applied when new files are created, set new_file_syntax to the name of the syntax
     // to use.  The format is exactly the same as "syntax" in the rules below. For example, if you want to have a new
     // file use JavaScript syntax, set new_file_syntax to 'JavaScript'.
-    "new_file_syntax": false,
+    "new_file_syntax": true,
 
     // Auto add extensions to language settings file in User folder.
     // Do not manually remove "apply_syntax_extensions" from the settings file.
@@ -21,7 +21,7 @@
     "syntaxes": [
         {
             "syntax": "CSS",
-            "extensions": ["css.liquid"]
+            "extensions": ["css.liquid", "scss", "sass"]
         },
         {
             "syntax": "Rails/HTML (Rails)",
