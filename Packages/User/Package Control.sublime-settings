@@ -5,15 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"ApplySyntax",
-		"Clipboard Manager",
 		"DocBlockr",
 		"Emmet",
 		"GitGutter",
 		"Package Control",
-		"Rails Developer Snippets",
 		"RuboCop",
+		"Ruby Slim",
 		"SideBarEnhancements",
 		"SublimeLinter-rubocop",
 		"Syntax Highlighting for Sass",
